@@ -14,6 +14,6 @@ Basically, If you are wanting to keep the absolute latest buying/selling price i
 2. Click on your shiny new Bookmarklet
 3. Watch that buy/sell price automagically update real time for you!
 
-Feel free to use this as you wish, but if you use this to make money, please give credit where credit is due.
+**Feel free to use this as you wish, but if you use this to make money, please give credit where credit is due.**
 
 Happy Trading!

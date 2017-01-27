@@ -6,6 +6,6 @@ To use this, just copy the code from "LiveFeed.js", create a bookmark and give i
 This will give you a "Bookmarklet".
 Navigate on over to Poloniex.com, click on your shiny new Bookmarklet, and watch that buy/sell price automagically update real time for you!
 
-Feel free to use thisas you wish, but if you use this to make money, please give credit where credit is due.
+Feel free to use this as you wish, but if you use this to make money, please give credit where credit is due.
 
 Happy Trading!

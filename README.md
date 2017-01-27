@@ -14,6 +14,8 @@ Basically, If you are wanting to keep the absolute latest buying/selling price i
 2. Click on your shiny new Bookmarklet
 3. Watch that buy/sell price automagically update real time for you!
 
+To get around the "Total Price" not updating if you have an amount you want to buy or sell, you can keep your courser inside the amount input and hit your left/right arrows to trigger the update. This will be a possible fix in the next revision of code.
+
 **Feel free to use this as you wish, but if you use this to make money, please give credit where credit is due.**
 
 Happy Trading!
